@@ -1,4 +1,4 @@
-### Olá! Seja bem-vindo(a) 👋
+### Olá, seja bem-vindo(a)! 👋
 
 ### Olá, eu sou Mailson Portugues. 👋 Sou apaixonado por tecnologia, e sou desenvolvedor Web FullStack. Autodidata, sempre buscando novos conhecimentos em programação.
 
