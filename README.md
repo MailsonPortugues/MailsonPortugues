@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo(a)! 👋
 
-### Olá, eu sou Mailson Portugues. 👋 Sou apaixonado por tecnologia, e sou desenvolvedor Web Full-Stack. Autodidata, sempre buscando novos conhecimentos em programação.
+### Eu sou Mailson Portugues. 👋 Sou apaixonado por tecnologia, e sou desenvolvedor Web Full-Stack. Autodidata, sempre buscando novos conhecimentos em programação.
 
 ![Mailson Portugues's GitHub stats](https://github-readme-stats.vercel.app/api?username=mailsonportugues&show_icons=true&theme=gruvbox)
 
